@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "prod"
+
+build:
+  version: "1.2"
+
+
+accounts:
+  message: "Welcome to the XYZ Bank accounts related prod services"
+  contactDetails:
+    name: "Ashish Kumar Prod"
+    email: "xyzprod@xyz.com"
+  contactNumbers:
+    - "0987654321"
+    - "2468013579"  

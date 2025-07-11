@@ -1,0 +1,17 @@
+spring:
+  config:
+    activate:
+      on-profile: "qa"
+
+build:
+  version: "1.1"
+
+
+accounts:
+  message: "Welcome to the XYZ Bank accounts related qa services"
+  contactDetails:
+    name: "Ashish Kumar QA"
+    email: "xyzqa@xyz.com"
+  contactNumbers:
+    - "1212112211"
+    - "3233232333"  
