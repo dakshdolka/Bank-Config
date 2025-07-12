@@ -11,7 +11,7 @@ accounts:
   message: "Welcome to the XYZ Bank accounts related prod services"
   contactDetails:
     name: "Ashish Kumar Prod"
-    email: "01ee38d41ef03b45bf66db01c75dadfc146aff712f4c7f40e919135cbdd91003"
+    email: "{cypher}01ee38d41ef03b45bf66db01c75dadfc146aff712f4c7f40e919135cbdd91003"
   contactNumbers:
     - "0987654321"
     - "2468013579"  
