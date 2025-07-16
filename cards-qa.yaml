@@ -7,5 +7,14 @@ spring:
       port: ${MONGO_PORT:27017}
       database: ${Mongo_DB:cards}
 
+cards:
+  message: "Welcome to XYZ Bank cards related qa services"
+  contactDetails:
+    name: "Saching tichkule"
+    email: "{cipher}01ee38d41ef03b45bf66db01c75dadfc146aff712f4c7f40e919135cbdd91003"
+  contactNumbers:
+    - "0987554321"
+    - "2468003579"  
+
 server:
   port: 8082 
