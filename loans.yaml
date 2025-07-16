@@ -8,3 +8,13 @@ spring:
 
 server:
   port: 8090
+
+  
+loans:
+  message: "Welcome to XYZ Bank loans related dev services"
+  contactDetails:
+    name: "Shubham Dhiman"
+    email: "{cipher}01ee38d41ef03b45bf66db01c75dadfc146aff712f4c7f40e919135cbdd91003"
+  contactNumbers:
+    - "0987122221"
+    - "2462103229"  
