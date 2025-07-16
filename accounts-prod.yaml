@@ -8,7 +8,7 @@ build:
 
 
 accounts:
-  message: "Welcome to the XYZ Bank accounts related prod services"
+  message: "Welcome to the XYZ Bank accounts related production services"
   contactDetails:
     name: "Ashish Kumar Prod"
     email: "{cipher}01ee38d41ef03b45bf66db01c75dadfc146aff712f4c7f40e919135cbdd91003"
