@@ -5,7 +5,8 @@ spring:
 
 build:
   version: "1.2"
-
+dummy:
+  commit: ignore
 
 accounts:
   message: "Welcome to the XYZ Bank accounts related production services"
